@@ -15,9 +15,12 @@ ctrl-c
 ## Demo
 Track Your Calories Dashboard: 
 
-## Screenshot
+## Screenshots
 
-![Dashboar Screenshot](https://raw.githubusercontent.com/srivastavas08/Track-your-Calories/main//Screenshot%202023-05-21%20at%203.24.00%20PM.png)
+![Dashboar Screenshot](https://raw.githubusercontent.com/srivastavas08/Track-your-Calories/main/Screenshot%202023-05-21%20at%205.57.57%20PM.png)
+
+## With Custom Values
+![Dashboar Screenshot](https://raw.githubusercontent.com/srivastavas08/Track-your-Calories/main/Screenshot%202023-05-21%20at%205.58.14%20PM.png)
 
 
 ## Author
