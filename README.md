@@ -13,7 +13,7 @@ ctrl-c
 ```
 
 ## Demo
-Track Your Calories Dashboard: 
+Track Your Calories Dashboard:(https://srivastavas08-track-your-calories-main-020bxk.streamlit.app/)
 
 ## Screenshots
 
