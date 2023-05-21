@@ -17,7 +17,7 @@ Sales Dashboard:
 
 ## Screenshot
 
-![Dashboar Screenshot]()
+![Dashboar Screenshot](Screenshot 2023-05-21 at 3.24.00 PM.png)
 
 
 ## Author
