@@ -17,7 +17,7 @@ Track Your Calories Dashboard:
 
 ## Screenshot
 
-![Dashboar Screenshot](Screenshot 2023-05-21 at 3.24.00 PM.png?raw=true)
+![Dashboar Screenshot](https://raw.githubusercontent.com/srivastavas08/Track-your-Calories/main//Screenshot%202023-05-21%20at%203.24.00%20PM.png)
 
 
 ## Author
